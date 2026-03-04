@@ -1,0 +1,1 @@
+SECRET_JWT=secret_key_for_jwt_token_generation
